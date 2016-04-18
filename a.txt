@@ -1,5 +1,6 @@
 aaaaaaaaaaaa
 dev.....
 switch branch dev.
-remote update a.txt file.
+remote update a.txt file.remote update
 local update a.txt file.local update.
+
